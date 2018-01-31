@@ -19,34 +19,16 @@
 
 #### Install:
 
-	After compile, you will get the utopian.dll on windows, and utopian.so on linux.
+	After compile, you will get the utopian.dll on windows, or utopian.so on linux.
 	Just put the shared library in the same directory with lua script, it will works fine.
+	
+#### Version history:
+
+    Please see CHANGELOG.md file
 	
 #### How to use it?
 
-- require the module:
-	
-```u = require("utopian")```
-
-- get all sponsors:
-
-```u.get_sponsors()```
-
-- get all moderators:
-
-```u.get_moderators()```
-
-- get current status:
-
-```u.get_stats()```
-
-- get the posts as specified rule:
-
-```u.get_posts("all","any","review","created","all",2)```
-
-- get the top posts as specified rules:
-
-```u.get_top_posts("2018-1-1", "2018-1-31", 10, 0)```
+    Please see the DOC.md file
 
 #### How to contribute?
 
