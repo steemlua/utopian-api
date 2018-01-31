@@ -1,4 +1,4 @@
-- require the module:
+﻿- require the module:
 	
 ```u = require("utopian")```
 

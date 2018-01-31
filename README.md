@@ -1,4 +1,4 @@
-#### What is the project about?
+﻿#### What is the project about?
 
 	This project is a wrapper of Utopian APIs. It provides an easy way to use Utopian APIs for Lua developers.
 	The current implementation is a wrapper of Utopian API and the returned values are all in JSON.
