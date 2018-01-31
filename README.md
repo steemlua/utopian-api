@@ -3,13 +3,14 @@
 	This project is a wrapper of Utopian APIs. It provides an easy way to use Utopian APIs for Lua developers.
 	The current implementation is a wrapper of Utopian API and the returned values are all in JSON.
 	
-	Next release will be focus on the output friendly for lua developers:
+	Next release will be focus on making the lua developer's life easy:
 	1) Convert the JSON string to lua table etc.
 	2) Add some utilities function, for example check if given user is a sponsors/moderators
 
-#### Dependence:
+#### Dependences:
 
-	libcurl 7.54, lua5.3
+	libcurl 7.54
+	lua5.3
 
 #### Compile:
 
@@ -19,7 +20,7 @@
 #### Install:
 
 	After compile, you will get the utopian.dll on windows, and utopian.so on linux.
-	Just put the shared library in the same directory with you lua script, it will works fine.
+	Just put the shared library in the same directory with lua script, it will works fine.
 	
 #### How to use it?
 
@@ -49,11 +50,11 @@
 
 #### How to contribute?
 
-- Just fork this project, create your branch, commit your changes and send a pull request!
+    Just fork this project, create your branch, commit your changes and send a pull request!
 
 #### How to contact me?
 
-- Just following me on steemit: https://steemit.com/@steemlua
+    Just following me on steemit: https://steemit.com/@steemlua
 
 #### Test:
 
