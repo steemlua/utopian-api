@@ -4,7 +4,7 @@
 	The current implementation is a wrapper of Utopian API and the returned values are all in JSON.
 	
 	Next release will be focus on making the lua developer's life easy:
-	1) Convert the JSON string to lua table etc.
+	1) Convert the JSON string to lua table etc. 
 	2) Add some utilities function, for example check if given user is a sponsors/moderators
 
 #### Dependences:
